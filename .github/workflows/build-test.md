@@ -11,6 +11,8 @@ network:
     - defaults
     - github
     - java
+    - caffeine.gradle-enterprise.cloud
+    - api.foojay.io
 ---
 
 # Build and Test Java Project
